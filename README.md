@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="nexo-logo.png">
 # NEXO SOFTWARE
 
 ### SOFTWARE DEVELOPMENT & DIGITAL SOLUTIONS
