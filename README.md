@@ -1,49 +1,50 @@
 <div align="center">
-<img src="nexo-logo.png">
-# NEXO SOFTWARE
+  <img src="nexo-logo.png" alt="Nexo Software" width="180" />
 
-### SOFTWARE DEVELOPMENT & DIGITAL SOLUTIONS
+  # NEXO SOFTWARE
 
-Technology. Innovation. Solutions.
+  ### Digital solutions built around your business.
+
+  **Technology · Innovation · Solutions**
+
+  [About](#about) · [What we do](#what-we-do) · [Technology](#technology) · [Projects](#projects) · [Contact](#contact)
+</div>
 
 ---
 
-</div>
+## About
 
-## About Us
+Nexo Software designs and builds practical digital tools that help businesses work smarter. We turn everyday operational challenges into clear, reliable software—from automating repetitive tasks to bringing essential business information into one place.
 
-Nexo Software is a software development brand focused on creating practical digital solutions.
+Our focus is simple: understand the process, build the right solution, and make it useful in the real world.
 
-We aim to simplify processes, automate tasks and improve business management through customized software.
+## What we do
 
-## Technologies
+- **Custom software** — purpose-built applications for your workflow.
+- **Process automation** — fewer repetitive tasks, more time for meaningful work.
+- **Data processing** — organize information and make it easier to use.
+- **Inventory management** — keep products, movements, and records under control.
+- **Business management systems** — connect day-to-day operations with tools that fit.
 
-- Rust
-- Python
-- SQL
+## Technology
 
-## Our Services
+We work with a focused foundation of tools and technologies:
 
-- Custom Software Development
-- Process Automation
-- Data Processing
-- Inventory Management
-- Business Management Systems
+**Rust** · **Python** · **SQL**
 
-## Our Projects
+## Projects
 
-Coming soon.
+We're building. Project highlights will be shared here as they become available.
 
 ## Contact
 
-For business inquiries and collaborations, contact us.
+Have a process to improve or an idea to bring to life? Get in touch to discuss your project and explore the right solution.
+
+[Email us](mailto:nicoavellanas123@gmail.com)
 
 ---
 
 <div align="center">
-
-**NEXO SOFTWARE**
-
-*Technology. Innovation. Solutions.*
-
+  <strong>NEXO SOFTWARE</strong><br />
+  Technology · Innovation · Solutions
 </div>
